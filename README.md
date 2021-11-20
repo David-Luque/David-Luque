@@ -78,7 +78,8 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&hide_border=true&layout=compact" align="left" />  
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&hide=contribs,prs)
+ 
 
 <img src="https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />

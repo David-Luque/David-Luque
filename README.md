@@ -1,8 +1,3 @@
-<img src="https://cutewallpaper.org/22/minimalist-code-wallpapers/2348030494.jpg" align="left" style="width: 100%" />  
-  
-
-<br/>  
-
 # I'm David, full-stack developer 👨‍💻  
   
 

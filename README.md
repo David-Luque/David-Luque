@@ -81,8 +81,8 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&hide=contribs,prs)
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&count_private=true&hide_border=true" align="left" />
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque)](https://github.com/David-Luque/github-readme-stats)
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

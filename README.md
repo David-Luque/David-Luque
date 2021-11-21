@@ -86,3 +86,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque)](https://github.com/David-Luque/github-profile-trophy)
+

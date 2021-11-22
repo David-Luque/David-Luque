@@ -81,9 +81,6 @@
 
 ## Github Stats  
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque)](https://github.com/David-Luque/github-readme-stats)
-
-
-![David's GitHub stats 2](https://github-readme-stats.vercel.app/api?username=David-Luque&hide=contribs,prs)
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque)](https://github.com/David-Luque/github-readme-stats)

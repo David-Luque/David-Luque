@@ -1,7 +1,7 @@
 
 
-# Hola! 
-# I'm David, full-stack web developer 
+# Hola! :v:
+## I'm David, full-stack web developer 
   
 
 - 🔍 I’m currently working on searching a full-time web dev job  
@@ -83,8 +83,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=David-Luque&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=David-Luque&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=DD6500)](https://git.io/streak-stats)
 ----
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10&no-bg=true&no-frame=true)

@@ -85,13 +85,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
-[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_Luque&range=last_year)](https://github.com/David-Luque/github-readme-stats)
+<hr/>
+
+
+<a href="https://github.com/David-Luque/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true" />
+</a>
+
 
 
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque)](https://github.com/David-Luque/github-profile-trophy)
 

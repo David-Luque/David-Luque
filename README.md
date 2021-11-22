@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark)](https://github.com/David-Luque/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/David-Luque/github-readme-stats)
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)

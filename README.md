@@ -86,7 +86,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
 <hr/>
-
+----
 
 <a href="https://github.com/David-Luque/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6" />
@@ -96,7 +96,7 @@
 </a>
 
 
-
+----
 
 
 ----

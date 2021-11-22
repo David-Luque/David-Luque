@@ -29,7 +29,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -45,7 +44,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -64,7 +62,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Dev Ops  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -73,7 +70,7 @@
 </td></tr></table>  
  
   
-
+  
 <br/>  
 
 
@@ -83,9 +80,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
-<hr/>
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque)](https://github.com/David-Luque/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10)]
 

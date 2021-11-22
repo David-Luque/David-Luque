@@ -85,7 +85,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
-[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David-Luque&theme=vue-dark)](https://github.com/David-Luque/github-readme-stats)
+[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David_Luque)](https://github.com/David-Luque/github-readme-stats)
+
 
 
 

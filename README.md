@@ -1,7 +1,7 @@
 
 
 # Hola! :v:
-## I'm David, full-stack web developer 
+I'm David, full-stack web developer 👨‍💻
   
 
 - 🔍 I’m currently working on searching a full-time web dev job  

@@ -1,6 +1,6 @@
 
 
-# I'm David, full-stack developer 👨‍💻  
+# Hola! I'm David, full-stack web developer 👨‍💻  
   
 
 - 🔍 I’m currently working on searching a full-time web dev job  
@@ -9,10 +9,20 @@
 - 🌱 I’m currently developing personal projects to consolidate and deepen my dev knowledge and skills.  
   
 
-- ❓ Ask me about anything through my [LinkedIn profile](https://www.linkedin.com/in/david-luque-alba/)  
-  
+<br/>
+
+<div align="center">
+<a href="https://github.com/David-Luque" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/david-luque-alba" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
 
 <br/>  
+
+<hr/>
 
 
 ## My Skill Set  
@@ -61,19 +71,7 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/David-Luque" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/david-luque-alba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+ 
   
 
 <br/>  
@@ -86,18 +84,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
 
 <hr/>
-----
-
-<a href="https://github.com/David-Luque/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true" />
-</a>
-
-
-----
-
 
 ----
 

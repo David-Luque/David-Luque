@@ -83,5 +83,5 @@
 
 ----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10)]
+![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10&no-bg=true&no-frame=true)
 

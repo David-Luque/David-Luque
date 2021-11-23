@@ -17,8 +17,11 @@
 <a href="https://linkedin.com/in/david-luque-alba" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:dvdlq99@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://mystifying-saha-3a377e.netlify.app/" target="_blank">
-  <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&color=red alt=portfolio style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&color=yellow alt=portfolio style="margin-bottom: 5px;" />
 </a>
 </div> 
 

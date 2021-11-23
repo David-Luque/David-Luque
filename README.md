@@ -30,7 +30,6 @@
 </div>
  
 <br/>
-<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
@@ -87,12 +86,12 @@
 
 
 ## :bar_chart: Github Stats :chart_with_upwards_trend::chart_with_downwards_trend: 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/David-Luque/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=true)](https://github.com/David-Luque/github-readme-stats)
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/David-Luque/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Luque&layout=compact&theme=vue-dark&langs_count=6&hide_border=true)](https://github.com/David-Luque/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=David-Luque&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=DD6500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=David-Luque&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=DD6500&hide_border=true)](https://git.io/streak-stats)
 
 
 <br/>

@@ -1,6 +1,6 @@
 <img src="https://github.com/David-Luque/David-Luque/blob/main/header.jpg" alt="gif" align="center" width="100%"/>
 
-<br/><br/>
+<br/>
 
 # Hola:exclamation:  :v:  I'm David, full-stack web developer
 

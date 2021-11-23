@@ -76,6 +76,7 @@
  
   
 <br/>  
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
@@ -90,6 +91,7 @@
 
 
 <br/>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 

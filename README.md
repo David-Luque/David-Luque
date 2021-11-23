@@ -21,6 +21,7 @@
 </div> 
 
 <br/>
+<br/>
   
 <img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
 <div align="left">
@@ -29,7 +30,7 @@
 </div>
  
 
-<br/><br/>
+<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 

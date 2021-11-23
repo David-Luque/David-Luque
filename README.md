@@ -8,7 +8,7 @@
     <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
   </div>
   <div>
-    <img src="https://github.com/David-Luque/David-Luque/blob/main/cat-computer.gif" alt="gif"/>
+    <img style="float: right;" src="https://github.com/David-Luque/David-Luque/blob/main/cat-computer.gif" alt="gif"/>
   </div>
 </div>
 

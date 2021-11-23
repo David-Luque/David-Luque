@@ -1,6 +1,6 @@
 
 
-# Hola! :v: I'm David, full-stack web developer 👨‍💻
+# Hola:exclamation: :v: I'm David, full-stack web developer 👨‍💻
   
 
 🔍 I’m currently in search of a full-time web dev job
@@ -24,7 +24,7 @@
 <hr/>
 
 
-## My Skill Set  
+:bulb: Skill & Tools 🛠️
 <table><tr><td valign="top" width="33%">
 
 
@@ -74,7 +74,7 @@
 
 
 
-## Github Stats  
+## :chart_with_upwards_trend::chart_with_downwards_trend: Github Stats :bar_chart:
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/David-Luque/github-readme-stats)
  
 
@@ -86,10 +86,7 @@
 <br/>
 <hr/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=David-Luque&theme=vue-dark&hide_border=false" /></a>
 
-<br/>
-<hr/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10&no-bg=true&no-frame=true)
 

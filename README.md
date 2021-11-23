@@ -86,6 +86,10 @@
 <br/>
 <hr/>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=David-Luque&theme=vue-dark&hide_border=false" /></a>
+
+<br/>
+<hr/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10&no-bg=true&no-frame=true)
 

@@ -27,7 +27,7 @@
 
 <br/>  
 
-<hr/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
 ## :bulb: Skill & Tools 🛠️
@@ -76,7 +76,7 @@
  
   
 <br/>  
-<hr/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
 
@@ -90,7 +90,7 @@
 
 
 <br/>
-<hr/>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
 

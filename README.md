@@ -3,7 +3,7 @@
 # Hola:exclamation:  :v:  I'm David, full-stack web developer
   
 
-<div align="justify">
+<div align="left">
   <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
   <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
 </div>

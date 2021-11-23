@@ -29,7 +29,7 @@
   <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
 </div>
  
-
+<br/>
 <br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)

@@ -1,18 +1,8 @@
+[![MasterHead]("https://github.com/David-Luque/David-Luque/blob/main/header.jpg")]
 
+<br/><br/>
 
 # Hola:exclamation:  :v:  I'm David, full-stack web developer
-  
-
-<div align="left">
-  <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
-  <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
-</div>
-<div>
-  <img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
-</div>
-
-
-  
 
 <br/>
 
@@ -30,6 +20,17 @@
   <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&color=yellow alt=portfolio style="margin-bottom: 5px;" />
 </a>
 </div> 
+
+<br/>
+  
+
+<div align="left">
+  <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
+  <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
+</div>
+ 
+<img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
+
 
 <br/>  
 

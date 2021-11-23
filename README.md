@@ -29,7 +29,7 @@
 </div>
  
 
-<br/>  
+<br/><br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
@@ -98,7 +98,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
-
+<br/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=David-Luque&theme=chalk&column=7&margin-w=10&no-bg=true&no-frame=true)
 

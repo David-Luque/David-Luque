@@ -5,7 +5,7 @@
 
 🔍 I’m currently in search of a full-time web dev job 🤝
   
-🌱 I’m also developing projects to consolidate and deepen my dev knowledge and skills 💻
+🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻
   
 
 <br/>

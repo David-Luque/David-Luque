@@ -3,12 +3,12 @@
 # Hola:exclamation:  :v:  I'm David, full-stack web developer
   
 
-<div align="center">
+<div align="justify">
   <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
   <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
 </div>
 <div>
-  <img align="center" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
+  <img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
 </div>
 
 

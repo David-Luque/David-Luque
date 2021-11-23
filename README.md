@@ -2,10 +2,16 @@
 
 # Hola:exclamation:  :v:  I'm David, full-stack web developer
   
+<div>
+  <div>
+    <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
+    <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
+  </div>
+  <div>
+    <img src="https://github.com/David-Luque/David-Luque/cat-computer.gif" alt="gif"/>
+  </div>
+</div>
 
-🔍 I’m currently in search of a full-time web dev job 🤝
-  
-🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻
   
 
 <br/>

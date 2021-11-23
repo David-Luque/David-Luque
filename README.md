@@ -24,7 +24,7 @@
 <hr/>
 
 
-:bulb: Skill & Tools 🛠️
+## :bulb: Skill & Tools 🛠️
 <table><tr><td valign="top" width="33%">
 
 
@@ -74,7 +74,7 @@
 
 
 
-## :chart_with_upwards_trend::chart_with_downwards_trend: Github Stats :bar_chart:
+## :bar_chart: Github Stats :chart_with_upwards_trend::chart_with_downwards_trend: 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/David-Luque/github-readme-stats)
  
 

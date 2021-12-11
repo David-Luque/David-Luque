@@ -26,8 +26,8 @@
 <img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
 <br/>
 <div align="left">
-  <p> 🔍 Actualmente estoy busco trabajo de desarrollo web a tiempo completo 🤝 </p>
-  <p> 🌱 También estoy desarrollando proyectos para consolidar y profundizar mis conocimientos y habilidades de desarrollo 💻 </p>
+  <p> 🔍 Actualmente busco trabajo de desarrollo web a tiempo completo 🤝 </p>
+  <p> 🌱 También desarrollo mis propios proyectos para consolidar y profundizar mis conocimientos y habilidades de desarrollo 💻 </p>
 </div>
  
 <br/>

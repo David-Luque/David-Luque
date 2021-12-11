@@ -86,7 +86,7 @@
 
 
 
-## :bar_chart: Github Stats :chart_with_upwards_trend::chart_with_downwards_trend: 
+## :bar_chart: Estadísticas Github :chart_with_upwards_trend::chart_with_downwards_trend: 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Luque&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=true)](https://github.com/David-Luque/github-readme-stats)
  
 

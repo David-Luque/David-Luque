@@ -1,7 +1,7 @@
 <img src="https://github.com/David-Luque/David-Luque/blob/main/header.jpg" alt="gif" align="center" width="100%"/>
 
 
-# Hola:exclamation:  :v:  I'm David, full-stack web developer
+# Hola:exclamation:  :v:  Soy David, desarrollador web full-stack
 
 <br/>
 
@@ -26,8 +26,8 @@
 <img align="right" src="https://github.com/David-Luque/David-Luque/blob/main/coder-tester.gif" alt="gif"/>
 <br/>
 <div align="left">
-  <p> 🔍 I’m currently in search of a full-time web dev job 🤝 </p>
-  <p> 🌱 I’m currently developing projects to consolidate and deepen my dev knowledge and skills 💻 </p>
+  <p> 🔍 Actualmente estoy busco trabajo de desarrollo web a tiempo completo 🤝 </p>
+  <p> 🌱 También estoy desarrollando proyectos para consolidar y profundizar mis conocimientos y habilidades de desarrollo 💻 </p>
 </div>
  
 <br/>
@@ -35,7 +35,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
-## :bulb: Skill & Tools 🛠️
+## :bulb: Competencias y recursos 🛠️
 <table><tr><td valign="top" width="33%">
 
 
